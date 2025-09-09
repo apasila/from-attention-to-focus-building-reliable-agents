@@ -32,7 +32,7 @@ This repository contains the research paper "From Attention to Focus: Building R
 If you use this work in your research or projects, please cite:
 
 ```bibtex
-@misc{pasila2024attention,
+@misc{pasila2025attention,
   title={From Attention to Focus: Building Reliable Agents},
   author={Pasila, Antti},
   year={2025},
