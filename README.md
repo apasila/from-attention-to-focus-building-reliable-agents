@@ -1,16 +1,29 @@
 # From Attention to Focus: Building Reliable Agents
 
+**TL;DR:** Practical patterns to make LLM agents more reliable. Covers attention limits, goal drift, context saturation, and fixes that actually ship.
+
+📄 **PDF:** [From Attention to Focus.pdf](./From%20Attention%20to%20Focus.pdf)
+
+## Abstract
+LLM agents fail in boring ways: they lose the thread, wander from goals, and choke on long context. This note maps the failure modes and offers simple, testable fixes: tighter objective scaffolds, focus windows, task chunking, guardrails, and evaluation loops. The aim is less theory, more reliability.
+
+**Keywords:** agents, LLM, reliability, scaffolding, evaluation
+
+## Cite
+```bibtex
+@misc{pasila2025focus,
+  title={From Attention to Focus: Building Reliable Agents},
+  author={Pasila, Antti},
+  year={2025},
+  howpublished={GitHub repository},
+  note={v1.0}
+}
+```
+
+---
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Release](https://img.shields.io/badge/release-v1.0-blue.svg)](https://github.com/apasila/from-attention-to-focus-building-reliable-agents/releases/tag/v1.0)
-
-## 🎯 TL;DR
-**This paper presents a comprehensive framework for building reliable AI agents through advanced attention mechanisms and focus engineering techniques.** 📄 **[Download PDF](https://github.com/apasila/from-attention-to-focus-building-reliable-agents/raw/main/From%20Attention%20to%20Focus.pdf)**
-
-## 📋 Abstract
-
-This research introduces novel methodologies for developing more reliable and focused AI agents by leveraging advanced attention architectures and systematic focus engineering. We present a comprehensive framework that addresses key challenges in agent reliability, including attention drift, context management, and decision consistency. Our approach combines theoretical insights with practical implementation strategies, demonstrating significant improvements in agent performance across multiple domains. The work provides both researchers and practitioners with actionable techniques for building more dependable artificial intelligence systems.
-
-**Keywords:** AI Agents, Attention Mechanisms, Focus Engineering, Reliability, Agent Architecture, Context Management, Decision Consistency
 
 ## 🏗️ Architecture Overview
 
