@@ -35,7 +35,7 @@ If you use this work in your research or projects, please cite:
 @misc{pasila2024attention,
   title={From Attention to Focus: Building Reliable Agents},
   author={Pasila, Antti},
-  year={2024},
+  year={2025},
   howpublished={\url{https://github.com/apasila/from-attention-to-focus-building-reliable-agents}},
   note={Available under MIT License}
 }
@@ -74,7 +74,7 @@ We welcome contributions to improve this work:
 
 ## 🔄 Version History
 
-- **v1.0** (2024) - Initial release of the research paper
+- **v1.0** (2025) - Initial release of the research paper
 
 ## 📈 Future Work
 
