@@ -1,5 +1,8 @@
 # From Attention to Focus: Building Reliable Agents
 
+![Paper Preview](Focus.png)
+*Preview of the research paper*
+
 📄 **PDF:** [Pasila-2025-From-Attention-to-Focus.pdf](./Pasila-2025-From-Attention-to-Focus.pdf)
 
 **Full title:**  
