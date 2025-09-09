@@ -1,18 +1,19 @@
 # From Attention to Focus: Building Reliable Agents
 
-**TL;DR:** Practical patterns to make LLM agents more reliable. Covers attention limits, goal drift, context saturation, and fixes that actually ship.
+📄 **PDF:** [Pasila-2025-From-Attention-to-Focus.pdf](./Pasila-2025-From-Attention-to-Focus.pdf)
 
-📄 **PDF:** [From Attention to Focus.pdf](./From%20Attention%20to%20Focus.pdf)
+**Full title:**  
+*From Attention to Focus: Building Reliable Agents in a Post-"Attention Is All You Need" World*
 
 ## Abstract
-LLM agents fail in boring ways: they lose the thread, wander from goals, and choke on long context. This note maps the failure modes and offers simple, testable fixes: tighter objective scaffolds, focus windows, task chunking, guardrails, and evaluation loops. The aim is less theory, more reliability.
+LLM agents often fail in predictable ways: losing focus, drifting from goals, or breaking under long contexts. This paper explores these failure modes and proposes pragmatic fixes — tighter scaffolds, focus windows, chunked objectives, and systematic evaluation. The aim is to move from fragile attention to reliable focus.
 
-**Keywords:** agents, LLM, reliability, scaffolding, evaluation
+**Keywords:** LLM agents, reliability, scaffolding, context limits, evaluation
 
-## Cite
+## Citation
 ```bibtex
 @misc{pasila2025focus,
-  title={From Attention to Focus: Building Reliable Agents},
+  title={From Attention to Focus: Building Reliable Agents in a Post-"Attention Is All You Need" World},
   author={Pasila, Antti},
   year={2025},
   howpublished={GitHub repository},
